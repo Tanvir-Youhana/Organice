@@ -41,5 +41,5 @@ Academic success stems from memorization. An ideal way to achieve this is with f
 - Refat Monjour
 
 ## Documentation
-[Project Report](https://github.com/mdrislam30/Organice/blob/main/Organice_documentation.pdf)
+[Project Report](https://github.com/Tanvir-Youhana/Organice/blob/main/Organice_documentation.pdf)
 
